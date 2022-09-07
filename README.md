@@ -2,5 +2,7 @@
 
 As Kanye West said:
 
-> Hej podej borovicku
-> Vychadniar jeden
+> We live in party
+> World
+
+__Mám rád bold text__
